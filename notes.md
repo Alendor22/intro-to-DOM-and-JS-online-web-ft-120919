@@ -1,0 +1,6 @@
+DOM: Document Object Model
+- What is that?
+
+A Web page is a giant string of HTML...
+HTML is a bunch of tags
+A browser knows how to render those tags...
